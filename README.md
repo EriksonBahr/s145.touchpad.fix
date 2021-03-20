@@ -4,4 +4,4 @@ If you have a Lenovo s145 you might have noticed that the scroll of the touch pa
 
 ## Chocolatey package
 
-This is a chocolatey package and can be installed using the following command `choco install s145.touchpad.fix -y` from an elevated prompt. See: https://chocolatey.org/packages/s145.touchpad.fix
+This is a chocolatey package and can be installed using the following command `choco install lenovo-s145-touchpad-fix -y` from an elevated prompt. See: https://chocolatey.org/packages/lenovo-s145-touchpad-fix
